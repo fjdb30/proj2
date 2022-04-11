@@ -1,1 +1,1 @@
-I am adding a second file to commit
+This new tutorial is suspiciously similar to the one before.
